@@ -1,8 +1,9 @@
 {
-	"name": "vscode-starter-packs",
-	"displayName": "VSCode Starter Packs",
+	"name": "vscode-starter-kits",
+	"displayName": "VSCode Starter Kits",
 	"description": "VSCode Extension for starter easy development",
-	"version": "0.0.1",
+	"publisher": "KAnggara75",
+	"version": "0.1.3",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
