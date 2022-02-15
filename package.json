@@ -6,8 +6,14 @@
 	"engines": {
 		"vscode": "^1.64.0"
 	},
+	"icon": "logo.png",
 	"categories": [
 		"Extension Packs"
+	],
+	"keywords": [
+		"web",
+		"mobile",
+		"desktop"
 	],
 	"extensionPack": [
 		"pnp.polacode",
@@ -44,5 +50,16 @@
 		"CoenraadS.bracket-pair-colorizer-2",
 		"kisstkondoros.vscode-gutter-preview",
 		"VisualStudioExptTeam.vscodeintellicode"
-	]
+	],
+	"scripts": {
+		"deploy": "vsce publish --yarn",
+		"test": "ls -l && echo \"OK\" && exit 0"
+	},
+	"repository": {
+		"url": "https://github.com/kanggara75/VSCodeStarterKit"
+	},
+	"homepage": "https://github.com/kanggara75/VSCodeStarterKit",
+	"bugs": {
+		"url": "https://github.com/kanggara75/VSCodeStarterKit/issues"
+	}
 }
