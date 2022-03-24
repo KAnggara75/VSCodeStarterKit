@@ -3,7 +3,7 @@
 	"displayName": "00. VSCode Starter Kits",
 	"description": "VSCode Extension for starter easy development",
 	"publisher": "KAnggara75",
-	"version": "0.1.4",
+	"version": "0.1.5",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
@@ -20,7 +20,6 @@
 		"pnp.polacode",
 		"GitHub.copilot",
 		"rubbersheep.gi",
-		"humao.rest-client",
 		"mhutchie.git-graph",
 		"usernamehw.errorlens",
 		"cschlosser.doxdocgen",
@@ -37,6 +36,7 @@
 		"zhuangtongfa.material-theme",
 		"ms-vscode-remote.remote-wsl",
 		"ms-vscode-remote.remote-ssh",
+		"rangav.vscode-thunder-client",
 		"DavidAnson.vscode-markdownlint",
 		"ms-vscode-remote.remote-ssh-edit",
 		"GitHub.vscode-pull-request-github",
