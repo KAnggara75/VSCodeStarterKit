@@ -3,7 +3,7 @@
 	"displayName": "00. VSCode Starter Kits",
 	"description": "VSCode Extension for starter easy development",
 	"publisher": "KAnggara75",
-	"version": "0.1.5",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
@@ -41,7 +41,6 @@
 		"ms-vscode-remote.remote-ssh-edit",
 		"GitHub.vscode-pull-request-github",
 		"ms-vscode-remote.remote-containers",
-		"CoenraadS.bracket-pair-colorizer-2",
 		"kisstkondoros.vscode-gutter-preview"
 	],
 	"scripts": {
