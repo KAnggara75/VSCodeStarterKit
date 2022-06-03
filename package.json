@@ -3,7 +3,7 @@
 	"displayName": "00. VSCode Starter Kits",
 	"description": "VSCode Extension for starter easy development",
 	"publisher": "KAnggara75",
-	"version": "0.1.1",
+	"version": "0.1.6",
 	"engines": {
 		"vscode": "^1.64.0"
 	},
